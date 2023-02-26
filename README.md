@@ -1,4 +1,4 @@
-# python Job Scrapper
+# Python Job Scrapper
 
 
 ## Welcome to python Job scrapper
